@@ -144,4 +144,4 @@ tasks/
 /test-results/
 /playwright-report/
 /blob-report/
-/e2e/screenshots/
+# e2e/screenshots are intentionally tracked (test report assets)
